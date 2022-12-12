@@ -1,0 +1,8 @@
+[
+   {
+        "name": "MK_Test_Plugin",
+        "version": "1.0.1",
+        "source": "https://raw.githubusercontent.com/mkampermann/Aerosys-RPG-Maker-Plugins/main/MK_Test_Plugin.js",
+        "engines": [ "mv", "mz" ]
+   }
+]
