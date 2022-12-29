@@ -4,5 +4,11 @@
         "version": "1.0.1",
         "source": "https://raw.githubusercontent.com/mkampermann/Aerosys-RPG-Maker-Plugins/main/MK_Test_Plugin.js",
         "engines": [ "mv", "mz" ]
+   },
+   {
+        "name": "MK_Core",
+        "version": "1.0.1",
+        "source": "https://raw.githubusercontent.com/mkampermann/Aerosys-RPG-Maker-Plugins/main/MK_Core.js",
+        "engines": [ "mv", "mz" ]
    }
 ]
